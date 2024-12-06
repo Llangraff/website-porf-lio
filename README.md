@@ -61,15 +61,22 @@ Depois, abra o navegador e acesse http://localhost:3000.
 Você pode personalizar o conteúdo do site editando os arquivos na pasta src/data:
 
 personalInfo.ts: Suas informações pessoais.
+
 projects.ts: Seus projetos.
+
 skills.ts: Suas habilidades.
+
 socialLinks.ts: Seus links sociais.
+
 testimonials.ts: Depoimentos de clientes ou colegas.
+
 timeline.ts: Sua experiência profissional.
+
 🤝 Contribuição
 Contribuições são bem-vindas! Para contribuir:
 
 Faça um fork do projeto.
+
 Crie uma branch com a sua funcionalidade: git checkout -b minha-funcionalidade.
 Faça o commit das suas alterações: git commit -m 'Adiciona minha funcionalidade'.
 Envie para o repositório remoto: git push origin minha-funcionalidade.
